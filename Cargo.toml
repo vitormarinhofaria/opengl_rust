@@ -10,7 +10,7 @@ edition = "2018"
 gl =  {git = "https://github.com/brendanzab/gl-rs/"}
 rand = "0.8.3"
 image = {git = "https://github.com/image-rs/image"}
-tokio = "1.2.0"
+tokio = "1.8.4"
 
 [dependencies.sdl2]
 git = "https://github.com/rust-sdl2/rust-sdl2"
